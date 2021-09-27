@@ -4,8 +4,6 @@
 
 <img src = 'https://media.istockphoto.com/photos/ice-cream-scoops-in-cones-with-copy-space-on-blue-picture-id1222009180?b=1&k=20&m=1222009180&s=170667a&w=0&h=Wiks_1uzl89NxXuyGWLWTOA_MWDcneKKvg8kcpEf_OU=' alt = 'Icecream Cone' align='right'/>
 
-<div style="text-align: right">There are two types of people in the world. Those who are currently eating icecream and those who sleep </div>
-
 ## :computer: Technologies I Love
 * Cloud Architecture
 * Data Streaming and Real-Time Analytics

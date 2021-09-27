@@ -2,7 +2,7 @@
 
 <h1>Welcome to my World, free icecream for everyone..</h1> 
 
-<img src = 'https://media.istockphoto.com/photos/ice-cream-scoops-in-cones-with-copy-space-on-blue-picture-id1222009180?b=1&k=20&m=1222009180&s=170667a&w=0&h=Wiks_1uzl89NxXuyGWLWTOA_MWDcneKKvg8kcpEf_OU=' alt = 'Icecream Cone' align='right'/>
+<img src = 'https://user-images.githubusercontent.com/29717043/134931543-059c7b6d-4df4-4288-8556-c1e85b30211d.jpg' alt = 'Icecream Cone' align='right'/>
 
 ## :computer: Technologies I Love
 * Cloud Architecture
